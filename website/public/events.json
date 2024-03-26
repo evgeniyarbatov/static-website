@@ -1,0 +1,110 @@
+[
+  {
+    "Rank":1,
+    "Time":"2:00:35",
+    "Name":"Kelvin Kiptum",
+    "Country":"KEN",
+    "Date of Birth":"02.12.99",
+    "Place":1,
+    "City":"Chicago",
+    "Date":"08.10.2023",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":2,
+    "Time":"2:01:09",
+    "Name":"Eliud Kipchoge",
+    "Country":"KEN",
+    "Date of Birth":"05.11.84",
+    "Place":1,
+    "City":"Berlin",
+    "Date":"25.09.2022",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":3,
+    "Time":"2:01:25",
+    "Name":"Kelvin Kiptum",
+    "Country":"KEN",
+    "Date of Birth":"02.12.99",
+    "Place":1,
+    "City":"London",
+    "Date":"23.04.2023",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":4,
+    "Time":"2:01:39",
+    "Name":"Eliud Kipchoge",
+    "Country":"KEN",
+    "Date of Birth":"05.11.84",
+    "Place":1,
+    "City":"Berlin",
+    "Date":"16.09.2018",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":5,
+    "Time":"2:01:41",
+    "Name":"Kenenisa Bekele",
+    "Country":"ETH",
+    "Date of Birth":"13.06.82",
+    "Place":1,
+    "City":"Berlin",
+    "Date":"29.09.2019",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":6,
+    "Time":"2:01:48",
+    "Name":"Sisay Lemma",
+    "Country":"ETH",
+    "Date of Birth":"12.12.90",
+    "Place":1,
+    "City":"Valencia",
+    "Date":"03.12.2023",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":7,
+    "Time":"2:01:53",
+    "Name":"Kelvin Kiptum",
+    "Country":"KEN",
+    "Date of Birth":"02.12.99",
+    "Place":1,
+    "City":"Valencia",
+    "Date":"04.12.2022",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":8,
+    "Time":"2:02:37",
+    "Name":"Eliud Kipchoge",
+    "Country":"KEN",
+    "Date of Birth":"05.11.84",
+    "Place":1,
+    "City":"London",
+    "Date":"28.04.2019",
+    "Gender":"Men",
+    "Event":"Marathon"
+  },
+  {
+    "Rank":9,
+    "Time":"2:02:40",
+    "Name":"Eliud Kipchoge",
+    "Country":"KEN",
+    "Date of Birth":"05.11.84",
+    "Place":1,
+    "City":"Tokyo",
+    "Date":"06.03.2022",
+    "Gender":"Men",
+    "Event":"Marathon"
+  }
+]
